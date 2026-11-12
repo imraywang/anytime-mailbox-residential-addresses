@@ -1,0 +1,983 @@
+{
+ "name": "Anytime Mailbox residential, non-CMRA US addresses",
+ "description": "As of 2026-11-06, 96 of the 2,121 Anytime Mailbox US locations (4.5%) are residential and not a CMRA in USPS data.",
+ "verified_on": "2026-11-06",
+ "license": "CC BY 4.0",
+ "license_url": "https://creativecommons.org/licenses/by/4.0/",
+ "source": "https://tools.upthos.com/en/address/data",
+ "citation": "UPTHOS Tools, 2026-11-06. Anytime Mailbox residential, non-CMRA US addresses. https://tools.upthos.com/en/address/data",
+ "verification": "USPS RDI residential and not CMRA via Smarty",
+ "count": 96,
+ "fields": [
+  "address",
+  "city",
+  "state",
+  "zip",
+  "monthly_price_usd",
+  "anytime_mailbox_url",
+  "verified_on",
+  "verification"
+ ],
+ "records": [
+  {
+   "address": "120 19th Street North",
+   "city": "Birmingham",
+   "state": "AL",
+   "zip": "35203",
+   "monthly_price_usd": 39.0,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/birmingham-120-19th-street-north",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1525 S. Higley Rd",
+   "city": "Gilbert",
+   "state": "AZ",
+   "zip": "85296",
+   "monthly_price_usd": 16.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/gilbert-1525-s-higley-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "3838 N Central Ave",
+   "city": "Phoenix",
+   "state": "AZ",
+   "zip": "85012",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/phoenix-3838-n-central-ave",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "201 E Center St",
+   "city": "Anaheim",
+   "state": "CA",
+   "zip": "92805",
+   "monthly_price_usd": 7.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/anaheim-201-e-center-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "145 E Duarte Rd",
+   "city": "Arcadia",
+   "state": "CA",
+   "zip": "91006",
+   "monthly_price_usd": 11.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/arcadia-145-e-duarte-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "411 E Huntington Dr",
+   "city": "Arcadia",
+   "state": "CA",
+   "zip": "91006",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/arcadia-411-e-huntington-drive",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "6077 Coffee Rd",
+   "city": "Bakersfield",
+   "state": "CA",
+   "zip": "93308",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/bakersfield-6077-coffee-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "14050 Cherry Ave",
+   "city": "Fontana",
+   "state": "CA",
+   "zip": "92337",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/fontana-14050-cherry-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "17595 Harvard Ave",
+   "city": "Irvine",
+   "state": "CA",
+   "zip": "92614",
+   "monthly_price_usd": 8.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/irvine-17595-harvard-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "92 Corporate Park",
+   "city": "Irvine",
+   "state": "CA",
+   "zip": "92606",
+   "monthly_price_usd": 8.89,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/irvine-92-corporate-park",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "7514 Girard Ave",
+   "city": "La Jolla",
+   "state": "CA",
+   "zip": "92037",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/la-jolla-7514-girard-ave",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "11328 Erwin Street",
+   "city": "North Hollywood",
+   "state": "CA",
+   "zip": "91606",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/nathalie-land",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "2042 High Street",
+   "city": "Oakland",
+   "state": "CA",
+   "zip": "94601",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/winda-and-more",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "9668 Milliken Ave",
+   "city": "Rancho Cucamonga",
+   "state": "CA",
+   "zip": "91730",
+   "monthly_price_usd": 24.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/rancho-cucamonga-9668-milliken-ave",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "19510 Van Buren Blvd",
+   "city": "Riverside",
+   "state": "CA",
+   "zip": "92508",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/riverside-19510-van-buren-blvd",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1111 6th Ave",
+   "city": "San Diego",
+   "state": "CA",
+   "zip": "92101",
+   "monthly_price_usd": 19.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/san-diego-1111-6th-ave",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1501 India St",
+   "city": "San Diego",
+   "state": "CA",
+   "zip": "92101",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/san-diego-1501-india-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "2907 Shelter Island Drive",
+   "city": "San Diego",
+   "state": "CA",
+   "zip": "92106",
+   "monthly_price_usd": 15.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/san-diego-2907-shelter-island-drive",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "30650 Rancho California Rd",
+   "city": "Temecula",
+   "state": "CA",
+   "zip": "92591",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/temecula-30650-rancho-california-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1930 18th St NW",
+   "city": "Washington",
+   "state": "DC",
+   "zip": "20009",
+   "monthly_price_usd": 14.95,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/washington-1930-18th-street-nw",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "6218 Georgia Ave N.W.",
+   "city": "Washington",
+   "state": "DC",
+   "zip": "20011",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/washington-6218-georgia-avenue-nw",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1401 Pennsylvania Ave",
+   "city": "Wilmington",
+   "state": "DE",
+   "zip": "19806",
+   "monthly_price_usd": 8.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/wilmington-1401-pennsylvania-ave",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "8903 Glades Rd",
+   "city": "Boca Raton",
+   "state": "FL",
+   "zip": "33434",
+   "monthly_price_usd": 7.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/boca-raton-8903-glades-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "3250 Bonita Beach Rd",
+   "city": "Bonita Springs",
+   "state": "FL",
+   "zip": "34134",
+   "monthly_price_usd": 19.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/bonita-springs-3250-bonita-beach-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1201 6th Ave W",
+   "city": "Bradenton",
+   "state": "FL",
+   "zip": "34205",
+   "monthly_price_usd": 10.0,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/bradenton-1201-6th-avenue-west",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "8400 NW 33rd St",
+   "city": "Doral",
+   "state": "FL",
+   "zip": "33122",
+   "monthly_price_usd": 29.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/doral-8400-nw-33rd-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "8927 Hypoluxo Rd",
+   "city": "Lake Worth",
+   "state": "FL",
+   "zip": "33467",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/lake-worth-8927-hypoluxo-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "7381 114th Ave",
+   "city": "Largo",
+   "state": "FL",
+   "zip": "33773",
+   "monthly_price_usd": 13.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/largo-7381-114th-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "14261 SW 120th St",
+   "city": "Miami",
+   "state": "FL",
+   "zip": "33186",
+   "monthly_price_usd": 11.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/miami-14261-sw-120th-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1202 SW 17th St",
+   "city": "Ocala",
+   "state": "FL",
+   "zip": "34471",
+   "monthly_price_usd": 11.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/ocala-1202-sw-17th-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "4440 PGA Blvd",
+   "city": "Palm Beach Gardens",
+   "state": "FL",
+   "zip": "33410",
+   "monthly_price_usd": 29.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/palm-beach-gardens-4440-pga-blvd",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "2200 Kings Highway",
+   "city": "Port Charlotte",
+   "state": "FL",
+   "zip": "33980",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/port-charlotte-2200-kings-highway",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "4410 Warren Ave",
+   "city": "Port Charlotte",
+   "state": "FL",
+   "zip": "33953",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/port-charlotte-4410-warren-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "333 3rd Ave N",
+   "city": "Saint Petersburg",
+   "state": "FL",
+   "zip": "33701",
+   "monthly_price_usd": 19.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/saint-petersburg-333-3rd-ave-n",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "4300 N University Dr",
+   "city": "Sunrise",
+   "state": "FL",
+   "zip": "33351",
+   "monthly_price_usd": 19.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/sunrise-4300-n-university-drive",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "700 S Rosemary Ave",
+   "city": "West Palm Beach",
+   "state": "FL",
+   "zip": "33401",
+   "monthly_price_usd": 69.0,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/west-palm-beach-700-s-rosemary-ave",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1700 Northside Drive",
+   "city": "Atlanta",
+   "state": "GA",
+   "zip": "30318",
+   "monthly_price_usd": 11.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/atlanta-1700-northside-drive",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "245 N Highland Ave NE",
+   "city": "Atlanta",
+   "state": "GA",
+   "zip": "30307",
+   "monthly_price_usd": 22.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/atlanta-245-n-highland-ave",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "300 Peachtree St NE",
+   "city": "Atlanta",
+   "state": "GA",
+   "zip": "30308",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/atlanta-300-peachtree-street-ne",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "4519 Woodruff Rd",
+   "city": "Columbus",
+   "state": "GA",
+   "zip": "31904",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/columbus-4519-woodruff-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "2250 Lake Harbin Rd",
+   "city": "Morrow",
+   "state": "GA",
+   "zip": "30260",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/morrow-2250-lake-harbin-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "211 W Wacker Dr",
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60606",
+   "monthly_price_usd": 14.95,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/chicago-211-w-wacker-drive-suite-120",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "211 W Wacker Dr",
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60606",
+   "monthly_price_usd": 19.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/chicago-211-w-wacker-drive-suite-300",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "6641 W Belmont Ave",
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60634",
+   "monthly_price_usd": 12.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/chicago-6641-belmont-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "570 Lake Cook Rd",
+   "city": "Deerfield",
+   "state": "IL",
+   "zip": "60015",
+   "monthly_price_usd": 64.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/deerfield-570-lake-cook-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "16649 Oak Park Ave",
+   "city": "Tinley Park",
+   "state": "IL",
+   "zip": "60477",
+   "monthly_price_usd": 11.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/tinley-park-16649-oak-park-ave",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "36 North Cass Ave",
+   "city": "Westmont",
+   "state": "IL",
+   "zip": "60559",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/westmont-36-north-cass-ave",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "440 3rd St",
+   "city": "Baton Rouge",
+   "state": "LA",
+   "zip": "70802",
+   "monthly_price_usd": 39.0,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/baton-rouge-440-3rd-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "100 Front St",
+   "city": "Worcester",
+   "state": "MA",
+   "zip": "01608",
+   "monthly_price_usd": 49.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/worcester-100-front-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1400 W. Lombard Street",
+   "city": "Baltimore",
+   "state": "MD",
+   "zip": "21223",
+   "monthly_price_usd": 10.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/baltimore-1400-w-lombard-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1190 Winterson Rd",
+   "city": "Linthicum Heights",
+   "state": "MD",
+   "zip": "21090",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/linthicum-heights-1190-winterson-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "215 W Pershing Rd",
+   "city": "Kansas City",
+   "state": "MO",
+   "zip": "64108",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/kansas-city-215-w-pershing-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1800 S 22nd Ave",
+   "city": "Bozeman",
+   "state": "MT",
+   "zip": "59718",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/bozeman-1800-s-22nd-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "40 Spanish Peak Dr",
+   "city": "Bozeman",
+   "state": "MT",
+   "zip": "59718",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/bozeman-40-spanish-peak-drive",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "125 S Lexington Ave",
+   "city": "Asheville",
+   "state": "NC",
+   "zip": "28801",
+   "monthly_price_usd": 12.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/asheville-125-s-lexington-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "610 Market St",
+   "city": "Chapel Hill",
+   "state": "NC",
+   "zip": "27516",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/chapel-hill-610-market-st",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "63 Sarazen Dr",
+   "city": "Clayton",
+   "state": "NC",
+   "zip": "27527",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/clayton-63-sarazen-drive",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1108 New Pointe Blvd",
+   "city": "Leland",
+   "state": "NC",
+   "zip": "28451",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/leland-1108-new-pointe-blvd",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "51 Elm St",
+   "city": "Laconia",
+   "state": "NH",
+   "zip": "03246",
+   "monthly_price_usd": 39.0,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/laconia-51-elm-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1077 North Ave",
+   "city": "Elizabeth",
+   "state": "NJ",
+   "zip": "07201",
+   "monthly_price_usd": 19.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/elizabeth-1077-north-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "100 Matawan Rd",
+   "city": "Matawan",
+   "state": "NJ",
+   "zip": "07747",
+   "monthly_price_usd": 19.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/matawan-100-matawan-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "643 Georges Rd",
+   "city": "North Brunswick",
+   "state": "NJ",
+   "zip": "08902",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/north-brunswick-643-georges-rd",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "514 Millburn Ave",
+   "city": "Short Hills",
+   "state": "NJ",
+   "zip": "07078",
+   "monthly_price_usd": 13.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/short-hills-514-millburn-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "2509 Astoria Blvd",
+   "city": "Astoria",
+   "state": "NY",
+   "zip": "11102",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/astoria-2509-astoria-boulevard",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "2810 23rd Ave",
+   "city": "Astoria",
+   "state": "NY",
+   "zip": "11105",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/astoria-2810-23rd-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1450 Allerton Ave",
+   "city": "Bronx",
+   "state": "NY",
+   "zip": "10469",
+   "monthly_price_usd": 19.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/bronx-1450-allerton-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1836 Westchester Ave",
+   "city": "Bronx",
+   "state": "NY",
+   "zip": "10472",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/bronx-1836-westchester-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "223 Bedford Ave",
+   "city": "Brooklyn",
+   "state": "NY",
+   "zip": "11211",
+   "monthly_price_usd": 18.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/brooklyn-223-bedford-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "238 Wilson Ave",
+   "city": "Brooklyn",
+   "state": "NY",
+   "zip": "11237",
+   "monthly_price_usd": 19.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/brooklyn-238-wilson-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "367 St Marks Ave",
+   "city": "Brooklyn",
+   "state": "NY",
+   "zip": "11238",
+   "monthly_price_usd": 12.5,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/brooklyn-367-st-marks-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "495 Henry St",
+   "city": "Brooklyn",
+   "state": "NY",
+   "zip": "11231",
+   "monthly_price_usd": 399.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/brooklyn-495a-henry-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "697 Grand St",
+   "city": "Brooklyn",
+   "state": "NY",
+   "zip": "11211",
+   "monthly_price_usd": 11.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/brooklyn-697-grand-st",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "248-25 Northern Blvd",
+   "city": "Little Neck",
+   "state": "NY",
+   "zip": "11362",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/little-neck-248-25-northern-blvd",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "3164 21st St",
+   "city": "Long Island City",
+   "state": "NY",
+   "zip": "11106",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/long-island-city-3164-21st-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "152 E 118th St",
+   "city": "New York",
+   "state": "NY",
+   "zip": "10001",
+   "monthly_price_usd": 54.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/new-york-152-e-118th-st",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "2196 Third Ave",
+   "city": "New York",
+   "state": "NY",
+   "zip": "10035",
+   "monthly_price_usd": 24.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/new-york-2196-third-avenue",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "42 Broadway",
+   "city": "New York",
+   "state": "NY",
+   "zip": "10004",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/new-york-42-broadway",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "6605 Longshore Street",
+   "city": "Dublin",
+   "state": "OH",
+   "zip": "43017-2774",
+   "monthly_price_usd": 19.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/dublin-6605-longshore-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "16200 SW Pacific Hwy",
+   "city": "Tigard",
+   "state": "OR",
+   "zip": "97224",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/tigard-16200-sw-pacific-highway",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "5944 Ogontz Ave",
+   "city": "Philadelphia",
+   "state": "PA",
+   "zip": "19141",
+   "monthly_price_usd": 11.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/philadelphia-5944-ogontz-ave",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "9111 Cross Park Dr",
+   "city": "Knoxville",
+   "state": "TN",
+   "zip": "37923",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/knoxville-9111-cross-park-drive",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "1314 W McDermott Dr",
+   "city": "Allen",
+   "state": "TX",
+   "zip": "75013",
+   "monthly_price_usd": 9.94,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/allen-1314-w-mcdermott-drive",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "10900 Research Blvd",
+   "city": "Austin",
+   "state": "TX",
+   "zip": "78759",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/austin-10900-research-blvd",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "6001 W Parmer Lane",
+   "city": "Austin",
+   "state": "TX",
+   "zip": "78727",
+   "monthly_price_usd": 10.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/austin-6001-w-parmer-lane",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "10160 Hwy 242",
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77385",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/conroe-10160-highway-242",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "13155 Noel Road",
+   "city": "Dallas",
+   "state": "TX",
+   "zip": "75240",
+   "monthly_price_usd": 39.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/dallas-13155-noel-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "5301 Alpha Rd",
+   "city": "Dallas",
+   "state": "TX",
+   "zip": "75240",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/dallas-5301-alpha-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "2450 Lakeside Pkwy",
+   "city": "Flower Mound",
+   "state": "TX",
+   "zip": "75022",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/flower-mound-2450-lakeside-pkwy",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "10780 Westview Dr,",
+   "city": "Houston",
+   "state": "TX",
+   "zip": "77043",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/houston-10780-westview-drive",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "6220 Westpark Dr",
+   "city": "Houston",
+   "state": "TX",
+   "zip": "77057",
+   "monthly_price_usd": 9.49,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/houston-6220-westpark-drive",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "156 S Main St",
+   "city": "Lumberton",
+   "state": "TX",
+   "zip": "77657",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/lumberton-95b-w-chance-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "11 S 12th St",
+   "city": "Richmond",
+   "state": "VA",
+   "zip": "23219",
+   "monthly_price_usd": 19.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/richmond-11-s-12th-street",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "4570 Avery Lane SE",
+   "city": "Lacey",
+   "state": "WA",
+   "zip": "98503",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/lacey-4570-avery-lane-se",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "4730 University Way NE",
+   "city": "Seattle",
+   "state": "WA",
+   "zip": "98105",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/seattle-4739-university-way-ne",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "13110 NE 177th Pl",
+   "city": "Woodinville",
+   "state": "WA",
+   "zip": "98072",
+   "monthly_price_usd": 14.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/woodinville-13110-ne-177th-place",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  },
+  {
+   "address": "333 W Brown Deer Rd",
+   "city": "Bayside",
+   "state": "WI",
+   "zip": "53217",
+   "monthly_price_usd": 9.99,
+   "anytime_mailbox_url": "https://www.anytimemailbox.com/s/bayside-333-w-brown-deer-road",
+   "verified_on": "2026-11-06",
+   "verification": "USPS RDI residential and not CMRA via Smarty"
+  }
+ ]
+}
